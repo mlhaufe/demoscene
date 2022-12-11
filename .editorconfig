@@ -1,0 +1,15 @@
+# Editor configuration, see https://editorconfig.org
+root = true
+
+[*.ts]
+quote_type = single
+
+[*.{html,mts,ts,json}]
+charset = utf-8
+end_of_line = crlf
+indent_size = 4
+indent_style = space
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false

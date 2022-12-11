@@ -1,0 +1,6 @@
+rock.png
+	<https://commons.wikimedia.org/wiki/File:Rock-paper-scissors_(rock).png>
+paper
+	<https://commons.wikimedia.org/wiki/File:Rock-paper-scissors_(paper).png>
+scissors
+	<https://commons.wikimedia.org/wiki/File:Rock-paper-scissors_(scissors).png>
